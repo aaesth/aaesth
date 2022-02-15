@@ -9,3 +9,4 @@ Here are some of my bad opinions
 4. vim > any single text editor
 1. C > C++/C#
 1. github copilot is very broken
+1. templeos > linux > windows
