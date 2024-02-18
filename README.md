@@ -1,1 +1,1 @@
-teachin bitches how to swim
+some of my code isnt completely garbage
